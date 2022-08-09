@@ -4,9 +4,13 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Get started',
-    links: [{href: '/docs', children: 'Overview'}],
-  },
+    title: 'My documentation 1',
+    links: [{href: '/docs', children: 'Documentation1'}],
+  } ,
+  {
+    title: 'My documentation 2',
+    links: [{href: '/docs2', children: 'Documentation2'}],
+  } ,
 ];
 
 export function SideNav() {

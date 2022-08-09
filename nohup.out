@@ -1,0 +1,11 @@
+
+> dev
+> next dev
+
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - automatically enabled Fast Refresh for 1 custom loader
+event - compiled client and server successfully in 697 ms (250 modules)
+wait  - compiling / (client and server)...
+event - compiled client and server successfully in 623 ms (277 modules)
+wait  - compiling /docs...
+event - compiled client and server successfully in 260 ms (280 modules)

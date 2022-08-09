@@ -70,6 +70,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
       </Head>
       <TopNav>
         <Link href="/docs">Docs</Link>
+        <Link href="/docs2">Docs2</Link>
       </TopNav>
       <div className="page">
         <SideNav />
